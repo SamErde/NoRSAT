@@ -21,3 +21,7 @@ The goal of this project is to write functions that can replace the most commonl
 - Focus on 'Get' functions over 'Set' functions
 - Function prefix 'NR': `{Verb}-NR{Noun}`
 - Return native Active Directory object types that are consistent with the types returned by the related ActiveDirectory module's cmdlets; return rich custom objects otherwise
+
+### Work in Progress
+
+Some function concepts are in progress at <https://github.com/SamErde/NoRSAT/tree/main/src/NoRSAT/Public/ActiveDirectory>.
